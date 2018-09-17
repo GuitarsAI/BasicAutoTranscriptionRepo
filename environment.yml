@@ -1,0 +1,18 @@
+name: rise-environment
+channels:
+  - damianavila82
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - rise
+  - jupyter_contrib_nbextensions
+  - pip:
+    - matplotlib==2.1.2
+    - MIDIUtil==1.2.1
+    - ipywidgets==7.2.0
+    - numpy==1.14.2
+    - seaborn==0.8.1
+    - music21==5.1.0
+    - ipython==6.3.1
+    - librosa==0.6.0
