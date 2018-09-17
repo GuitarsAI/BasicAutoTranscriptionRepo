@@ -28,7 +28,7 @@ Website: http://web.mit.edu/music21/doc <br>
 # MyBinder
 
 Launch Binder to Interact with this notebook in a live environment in the cloud:
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/WebScrapRepo/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicAutoTranscriptionRepo/master)
 
 # Guitars.AI
 
