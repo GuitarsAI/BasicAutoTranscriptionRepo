@@ -1,6 +1,6 @@
 # Step by Step Solution of an Automatic Music Transcription Problem: Transcribing the Guitar Introduction of Guns n' Roses - Sweet Child O' Mine
 
-<img src="Slide16.JPG" width="600">
+<img src="./img/Slide16.JPG" width="600">
 
 **Renato Profeta**, Guitars.AI, Technische Universität Ilmenau <br>
 Homepage: http://www.rptecnologias.com/ <br>
