@@ -10,9 +10,9 @@ Facebook: https://www.facebook.com/GuitarsAI/ <br>
 Linkedin: https://www.linkedin.com/in/renato-profeta-6b678831/ <br>
 Youtube: https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ
 
-# Youtube Step by Step Solution Videos
+# Youtube Step by Step Solution Videos - Playlist
 
-https://www.youtube.com/watch?v=8yunclUyeLY&list=PL6QnpHKwdPYgPAUH89aQN8uJl6QOvL9Nz
+https://www.youtube.com/playlist?list=PL6QnpHKwdPYh5OdFSt7kNqIPFEvXJRiUQ <br>
 
 # Requirements
 For the requirements for this project to run, please check the following files at the 'binder' folder:
@@ -22,7 +22,7 @@ For the requirements for this project to run, please check the following files a
 # Librosa Documentation:
 Website: https://librosa.github.io/librosa/ <br>
 
-# Music21 Documentation
+# Music21 Documentation:
 Website: http://web.mit.edu/music21/doc <br> 
 
 # MIDIUtil Documentation:
