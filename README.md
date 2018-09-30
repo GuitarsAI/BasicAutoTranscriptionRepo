@@ -31,7 +31,7 @@ Website: https://midiutil.readthedocs.io/en/1.2.1/ <br>
 # MyBinder
 
 Launch Binder to Interact with this notebook in a live environment in the cloud:
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicAutoTranscriptionRepo/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicAutoTranscriptionRepo/master?filepath=autoMusicTransRepo.ipynb)
 
 # Guitars.AI
 
