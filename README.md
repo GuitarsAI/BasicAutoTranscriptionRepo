@@ -25,6 +25,9 @@ Website: https://librosa.github.io/librosa/ <br>
 # Music21 Documentation
 Website: http://web.mit.edu/music21/doc <br> 
 
+# MIDIUtil Documentation:
+Website: https://midiutil.readthedocs.io/en/1.2.1/ <br>
+
 # MyBinder
 
 Launch Binder to Interact with this notebook in a live environment in the cloud:
