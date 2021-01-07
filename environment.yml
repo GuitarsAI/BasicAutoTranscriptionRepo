@@ -5,10 +5,12 @@ dependencies:
   - python
   - numpy
   - matplotlib
-  - MIDIUtil
   - ipywidgets
   - numpy
   - seaborn
   - music21
   - ipython
   - librosa
+pip:
+  - MIDIUtil
+  
