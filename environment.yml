@@ -4,12 +4,11 @@ channels:
 dependencies:
   - python
   - numpy
-  - pip:
-    - matplotlib
-    - MIDIUtil
-    - ipywidgets
-    - numpy
-    - seaborn
-    - music21
-    - ipython
-    - librosa
+  - matplotlib
+  - MIDIUtil
+  - ipywidgets
+  - numpy
+  - seaborn
+  - music21
+  - ipython
+  - librosa
