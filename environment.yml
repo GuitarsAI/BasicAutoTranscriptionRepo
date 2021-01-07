@@ -1,12 +1,9 @@
 name: rise-environment
 channels:
-  - damianavila82
   - conda-forge
 dependencies:
   - python
   - numpy
-  - rise
-  - jupyter_contrib_nbextensions
   - pip:
     - matplotlib==2.1.2
     - MIDIUtil==1.2.1
